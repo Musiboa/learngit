@@ -3,3 +3,4 @@ git is a free software
 create a new branch is quick and simple
 It is so complex for me to understand all the gitskills
 does it mean that i'm not suitable
+it is a little bit complex for me to understand git pull and rebase
